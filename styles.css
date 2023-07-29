@@ -1,0 +1,63 @@
+/* Estilos adicionales */
+body {
+  padding-top: 80px;
+}
+
+.hero {
+  background-color: #f8e8c5;
+  padding: 60px;
+}
+
+.hero h1 {
+  font-size: 36px;
+}
+
+.hero p {
+  font-size: 18px;
+}
+
+.novedades {
+  padding: 60px 0;
+}
+
+.novedades h2 {
+  margin-bottom: 30px;
+}
+
+.novedades .card {
+  margin-bottom: 30px;
+}
+
+.cervezas {
+  padding: 60px 0;
+}
+
+.cervezas h2 {
+  margin-bottom: 30px;
+}
+
+.cervezas .card {
+  margin-bottom: 30px;
+}
+
+.contacto {
+  padding: 60px 0;
+  background-color: #f8e8c5;
+}
+
+.contacto h2 {
+  margin-bottom: 30px;
+}
+
+.contacto .form-group {
+  margin-bottom: 20px;
+}
+
+.contacto .btn-primary {
+  background-color: #b45f06;
+  border-color: #b45f06;
+}
+
+.footer {
+  color: #fff;
+}
